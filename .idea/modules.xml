@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShoppingMartApp.iml" filepath="$PROJECT_DIR$/.idea/modules/ShoppingMartApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShoppingMartApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ShoppingMartApp_main.iml" group="ShoppingMartApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShoppingMartApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ShoppingMartApp_test.iml" group="ShoppingMartApp" />
+    </modules>
+  </component>
+</project>
